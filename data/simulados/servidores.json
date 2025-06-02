@@ -1,0 +1,41 @@
+[
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 1,
+    "corruptibilidade": 0.10786834017163446
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 2,
+    "corruptibilidade": 0.22192662585841577
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 3,
+    "corruptibilidade": 0.3300043116319627
+  }
+]

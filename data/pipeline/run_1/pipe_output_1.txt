@@ -1,0 +1,90 @@
+concessao | #SUP: 14098
+concessao sim | #SUP: 9887
+concessao sim | sim | #SUP: 9850
+concessao sim | sim | sim | #SUP: 9163
+concessao sim | sim | pagamento | #SUP: 9850
+concessao sim | sim | pagamento sim | #SUP: 9163
+concessao sim | sim | pagamento nao | #SUP: 687
+concessao sim | sim | nao | #SUP: 687
+concessao sim | revisao | #SUP: 9887
+concessao sim | revisao sim | #SUP: 9850
+concessao sim | revisao sim | sim | #SUP: 9163
+concessao sim | revisao sim | pagamento | #SUP: 9850
+concessao sim | revisao sim | pagamento sim | #SUP: 9163
+concessao sim | revisao sim | pagamento nao | #SUP: 687
+concessao sim | revisao sim | nao | #SUP: 687
+concessao sim | revisao nao | #SUP: 37
+concessao sim | revisao | sim | #SUP: 9163
+concessao sim | revisao | pagamento | #SUP: 9850
+concessao sim | revisao | pagamento sim | #SUP: 9163
+concessao sim | revisao | pagamento nao | #SUP: 687
+concessao sim | revisao | nao | #SUP: 687
+concessao sim | pagamento | #SUP: 9850
+concessao sim | pagamento sim | #SUP: 9163
+concessao sim | pagamento nao | #SUP: 687
+concessao sim | nao | #SUP: 724
+concessao nao | #SUP: 4211
+concessao | sim | #SUP: 9850
+concessao | sim | sim | #SUP: 9163
+concessao | sim | pagamento | #SUP: 9850
+concessao | sim | pagamento sim | #SUP: 9163
+concessao | sim | pagamento nao | #SUP: 687
+concessao | sim | nao | #SUP: 687
+concessao | revisao | #SUP: 9887
+concessao | revisao sim | #SUP: 9850
+concessao | revisao sim | sim | #SUP: 9163
+concessao | revisao sim | pagamento | #SUP: 9850
+concessao | revisao sim | pagamento sim | #SUP: 9163
+concessao | revisao sim | pagamento nao | #SUP: 687
+concessao | revisao sim | nao | #SUP: 687
+concessao | revisao nao | #SUP: 37
+concessao | revisao | sim | #SUP: 9163
+concessao | revisao | pagamento | #SUP: 9850
+concessao | revisao | pagamento sim | #SUP: 9163
+concessao | revisao | pagamento nao | #SUP: 687
+concessao | revisao | nao | #SUP: 687
+concessao | pagamento | #SUP: 9850
+concessao | pagamento sim | #SUP: 9163
+concessao | pagamento nao | #SUP: 687
+concessao | nao | #SUP: 724
+sim | #SUP: 9887
+sim | sim | #SUP: 9850
+sim | sim | sim | #SUP: 9163
+sim | sim | pagamento | #SUP: 9850
+sim | sim | pagamento sim | #SUP: 9163
+sim | sim | pagamento nao | #SUP: 687
+sim | sim | nao | #SUP: 687
+sim | revisao | #SUP: 9887
+sim | revisao sim | #SUP: 9850
+sim | revisao sim | sim | #SUP: 9163
+sim | revisao sim | pagamento | #SUP: 9850
+sim | revisao sim | pagamento sim | #SUP: 9163
+sim | revisao sim | pagamento nao | #SUP: 687
+sim | revisao sim | nao | #SUP: 687
+sim | revisao nao | #SUP: 37
+sim | revisao | sim | #SUP: 9163
+sim | revisao | pagamento | #SUP: 9850
+sim | revisao | pagamento sim | #SUP: 9163
+sim | revisao | pagamento nao | #SUP: 687
+sim | revisao | nao | #SUP: 687
+sim | pagamento | #SUP: 9850
+sim | pagamento sim | #SUP: 9163
+sim | pagamento nao | #SUP: 687
+sim | nao | #SUP: 724
+revisao | #SUP: 9887
+revisao sim | #SUP: 9850
+revisao sim | sim | #SUP: 9163
+revisao sim | pagamento | #SUP: 9850
+revisao sim | pagamento sim | #SUP: 9163
+revisao sim | pagamento nao | #SUP: 687
+revisao sim | nao | #SUP: 687
+revisao nao | #SUP: 37
+revisao | sim | #SUP: 9163
+revisao | pagamento | #SUP: 9850
+revisao | pagamento sim | #SUP: 9163
+revisao | pagamento nao | #SUP: 687
+revisao | nao | #SUP: 687
+pagamento | #SUP: 9850
+pagamento sim | #SUP: 9163
+pagamento nao | #SUP: 687
+nao | #SUP: 4935

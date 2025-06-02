@@ -1,0 +1,86 @@
+concessao | #SUP: 14151
+concessao nao | #SUP: 4154
+concessao sim | #SUP: 9997
+concessao sim | nao | #SUP: 705
+concessao sim | sim | #SUP: 9997
+concessao sim | sim | nao | #SUP: 705
+concessao sim | sim | sim | #SUP: 9292
+concessao sim | sim | pagamento | #SUP: 9997
+concessao sim | sim | pagamento nao | #SUP: 705
+concessao sim | sim | pagamento sim | #SUP: 9292
+concessao sim | revisao | #SUP: 9997
+concessao sim | revisao sim | #SUP: 9997
+concessao sim | revisao sim | nao | #SUP: 705
+concessao sim | revisao sim | sim | #SUP: 9292
+concessao sim | revisao sim | pagamento | #SUP: 9997
+concessao sim | revisao sim | pagamento nao | #SUP: 705
+concessao sim | revisao sim | pagamento sim | #SUP: 9292
+concessao sim | revisao | nao | #SUP: 705
+concessao sim | revisao | sim | #SUP: 9292
+concessao sim | revisao | pagamento | #SUP: 9997
+concessao sim | revisao | pagamento nao | #SUP: 705
+concessao sim | revisao | pagamento sim | #SUP: 9292
+concessao sim | pagamento | #SUP: 9997
+concessao sim | pagamento nao | #SUP: 705
+concessao sim | pagamento sim | #SUP: 9292
+concessao | nao | #SUP: 705
+concessao | sim | #SUP: 9997
+concessao | sim | nao | #SUP: 705
+concessao | sim | sim | #SUP: 9292
+concessao | sim | pagamento | #SUP: 9997
+concessao | sim | pagamento nao | #SUP: 705
+concessao | sim | pagamento sim | #SUP: 9292
+concessao | revisao | #SUP: 9997
+concessao | revisao sim | #SUP: 9997
+concessao | revisao sim | nao | #SUP: 705
+concessao | revisao sim | sim | #SUP: 9292
+concessao | revisao sim | pagamento | #SUP: 9997
+concessao | revisao sim | pagamento nao | #SUP: 705
+concessao | revisao sim | pagamento sim | #SUP: 9292
+concessao | revisao | nao | #SUP: 705
+concessao | revisao | sim | #SUP: 9292
+concessao | revisao | pagamento | #SUP: 9997
+concessao | revisao | pagamento nao | #SUP: 705
+concessao | revisao | pagamento sim | #SUP: 9292
+concessao | pagamento | #SUP: 9997
+concessao | pagamento nao | #SUP: 705
+concessao | pagamento sim | #SUP: 9292
+nao | #SUP: 4859
+sim | #SUP: 9997
+sim | nao | #SUP: 705
+sim | sim | #SUP: 9997
+sim | sim | nao | #SUP: 705
+sim | sim | sim | #SUP: 9292
+sim | sim | pagamento | #SUP: 9997
+sim | sim | pagamento nao | #SUP: 705
+sim | sim | pagamento sim | #SUP: 9292
+sim | revisao | #SUP: 9997
+sim | revisao sim | #SUP: 9997
+sim | revisao sim | nao | #SUP: 705
+sim | revisao sim | sim | #SUP: 9292
+sim | revisao sim | pagamento | #SUP: 9997
+sim | revisao sim | pagamento nao | #SUP: 705
+sim | revisao sim | pagamento sim | #SUP: 9292
+sim | revisao | nao | #SUP: 705
+sim | revisao | sim | #SUP: 9292
+sim | revisao | pagamento | #SUP: 9997
+sim | revisao | pagamento nao | #SUP: 705
+sim | revisao | pagamento sim | #SUP: 9292
+sim | pagamento | #SUP: 9997
+sim | pagamento nao | #SUP: 705
+sim | pagamento sim | #SUP: 9292
+revisao | #SUP: 9997
+revisao sim | #SUP: 9997
+revisao sim | nao | #SUP: 705
+revisao sim | sim | #SUP: 9292
+revisao sim | pagamento | #SUP: 9997
+revisao sim | pagamento nao | #SUP: 705
+revisao sim | pagamento sim | #SUP: 9292
+revisao | nao | #SUP: 705
+revisao | sim | #SUP: 9292
+revisao | pagamento | #SUP: 9997
+revisao | pagamento nao | #SUP: 705
+revisao | pagamento sim | #SUP: 9292
+pagamento | #SUP: 9997
+pagamento nao | #SUP: 705
+pagamento sim | #SUP: 9292

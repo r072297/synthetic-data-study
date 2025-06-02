@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyyaml = "*"
+simpy = "*"
+sqlalchemy = "*"
+jsonschema = "*"
+pydantic = "*"
+
+[dev-packages]
+pytest = "*"
+black = "*"
+isort = "*"
+flake8 = "*"
+mypy = "*"
+pytest-asyncio = "*"
+typing-extensions = "*"
+
+[requires]
+python_version = "3.13.3"
+
+[scripts]
+test = "pytest"
+test-cov = "pytest --cov=."
+format = "black ."
+lint = "flake8"
+type-check = "mypy src/ tests/ --config-file mypy.ini"
+type-check-strict = "mypy src/ tests/ --strict"
+check-all = "mypy src/ tests/ --config-file mypy.ini && pytest && flake8"

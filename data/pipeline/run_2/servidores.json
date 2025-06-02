@@ -1,0 +1,77 @@
+[
+  {
+    "unidade_gestora": {
+      "nome": "UG Assistência Social",
+      "conformidade": 0.5,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Auxílio Alimentação"
+      ]
+    },
+    "id": 1,
+    "corruptibilidade": 0.11
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Assistência Social",
+      "conformidade": 0.5,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Auxílio Alimentação"
+      ]
+    },
+    "id": 2,
+    "corruptibilidade": 0.23
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Assistência Social",
+      "conformidade": 0.5,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Auxílio Alimentação"
+      ]
+    },
+    "id": 3,
+    "corruptibilidade": 0
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 4,
+    "corruptibilidade": 0.1
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 5,
+    "corruptibilidade": 0.22
+  },
+  {
+    "unidade_gestora": {
+      "nome": "UG Educação",
+      "conformidade": 0.8,
+      "qtd_servidores": 3,
+      "programas_geridos": [
+        "Bolsa Estudantil",
+        "Auxílio Creche"
+      ]
+    },
+    "id": 6,
+    "corruptibilidade": 0.31
+  }
+]
